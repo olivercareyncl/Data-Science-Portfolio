@@ -81,12 +81,12 @@ The evaluation metric used in the Kaggle competition is **Root Mean Squared Loga
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/house-prices-regression.git
+   git clone https://github.com/olivercareyncl/Data-Science-Portfolio.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd house-prices-regression
+   cd Data-Science-Portfolio/House\ Prices\ -\ Advanced\ Regression\ Analysis
    ```
 
 3. Install the required dependencies:
