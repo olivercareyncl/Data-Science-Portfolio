@@ -1,6 +1,10 @@
 # House Prices - Advanced Regression Techniques
 
-This project is a submission to the Kaggle competition **House Prices: Advanced Regression Techniques**. The goal of the competition is to predict the final sale price of homes based on a wide range of features, using advanced regression techniques and feature engineering.
+![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices%20Prediction-blue)
+![Python](https://img.shields.io/badge/Python-3.x-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+This project is a submission to the Kaggle competition **House Prices: Advanced Regression Techniques**. The goal of the competition is to predict the final sale price of homes based on a wide range of features using advanced regression techniques and feature engineering.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -10,6 +14,7 @@ This project is a submission to the Kaggle competition **House Prices: Advanced 
 5. [Models Used](#models-used)
 6. [Evaluation](#evaluation)
 7. [How to Run the Project](#how-to-run-the-project)
+8. [License](#license)
 
 ## Project Overview
 
@@ -77,18 +82,3 @@ The evaluation metric used in the Kaggle competition is **Root Mean Squared Loga
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/house-prices-regression.git
-   ```
-2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the Jupyter notebooks in this order:
-
-  01_Data_Exploration.ipynb
-  02_Feature_Engineering.ipynb
-  03_Model_Building.ipynb
-  04_Model_Deployment.ipynb
-
-4. To generate predictions:
-  Ensure test.csv is placed in the working directory.
-  Run the 04_Model_Deployment.ipynb notebook to get the predictions and save the submission file.
