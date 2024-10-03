@@ -10,8 +10,8 @@ This project is a submission to the Kaggle competition **House Prices: Advanced 
 1. [Project Overview](#project-overview)
 2. [Data](#data)
 3. [Approach](#approach)
-7. [How to Run the Project](#how-to-run-the-project)
-8. [License](#license)
+4. [How to Run the Project](#how-to-run-the-project)
+
 
 ## Project Overview
 
