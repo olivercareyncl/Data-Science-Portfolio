@@ -34,7 +34,7 @@ The dataset used in this project is provided by Kaggle and contains 79 explanato
 
 ### 1. **Exploratory Data Analysis (EDA)**
    - Explored the dataset to understand the distribution of variables, missing values, and outliers.
-   - Visualized relationships between features and the target variable `SalePrice`.
+   - Visualised relationships between features and the target variable `SalePrice`.
 
 ### 2. **Feature Engineering**
    - Handled missing values by imputing the median for numerical features and the mode for categorical features.
@@ -82,3 +82,32 @@ The evaluation metric used in the Kaggle competition is **Root Mean Squared Loga
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/house-prices-regression.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd house-prices-regression
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the Jupyter notebooks in this order:
+   - `01_Data_Exploration.ipynb`: Perform exploratory data analysis (EDA) to understand the data and identify patterns.
+   - `02_Feature_Engineering.ipynb`: Perform feature engineering, handle missing values, and transform features.
+   - `03_Model_Building.ipynb`: Build the machine learning models (Linear Regression, Random Forest, Gradient Boosting) and evaluate them.
+   - `04_Model_Deployment.ipynb`: Use the best-performing model to generate predictions on the test set.
+
+5. To generate predictions:
+   - Ensure that `test.csv` is placed in the working directory.
+   - Open and run `04_Model_Deployment.ipynb` to generate the predictions and save the submission file in the required format.
+
+6. The generated submission file will be saved as:
+   - `rf_predictions_submission.csv` (Random Forest predictions)
+   - `gb_predictions_submission.csv` (Gradient Boosting predictions)
+   - `best_gb_predictions_submission.csv` (Best-tuned Gradient Boosting predictions)
+
+
+
