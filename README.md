@@ -15,9 +15,6 @@ Note: The data used in the projects (accessed under the data directory) is for d
 - **House Prices - Advanced Regression Analysis**: A Kaggle competition project predicting house prices using advanced regression techniques. Techniques include feature engineering, handling missing data, and applying various machine learning algorithms to optimize model performance.
   *Tools: Scikit-learn, Pandas, Matplotlib*
 
-- **Petals to the Metal - Flower Classification on TPU**: A TensorFlow-based project using TPU for faster training of a CNN model to classify images of flowers. Demonstrates how to leverage cloud-based hardware for deep learning tasks.
-  *Tools: TensorFlow, TPU*
-
 - **Titanic - Machine Learning from Disaster**: Classic Kaggle challenge that uses various classification algorithms to predict passenger survival on the Titanic. Emphasis on feature engineering and model selection.
   *Tools: Scikit-learn, Pandas, Seaborn*
 
