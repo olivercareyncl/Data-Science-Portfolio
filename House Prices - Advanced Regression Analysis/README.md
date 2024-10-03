@@ -10,9 +10,6 @@ This project is a submission to the Kaggle competition **House Prices: Advanced 
 1. [Project Overview](#project-overview)
 2. [Data](#data)
 3. [Approach](#approach)
-4. [Feature Engineering](#feature-engineering)
-5. [Models Used](#models-used)
-6. [Evaluation](#evaluation)
 7. [How to Run the Project](#how-to-run-the-project)
 8. [License](#license)
 
@@ -54,15 +51,6 @@ The dataset used in this project is provided by Kaggle and contains 79 explanato
    - Used **Root Mean Squared Error (RMSE)** to evaluate model performance.
    - Applied logarithmic transformations to the target variable (`SalePrice`) for better handling of skewed distribution.
    - Final Kaggle score: **0.14507**.
-
-## Models Used
-
-- **Random Forest Regressor**: A powerful ensemble learning method.
-- **Gradient Boosting Regressor**: Another ensemble learning model that builds trees sequentially to minimize the error.
-
-## Evaluation
-
-The evaluation metric used in the Kaggle competition is **Root Mean Squared Logarithmic Error (RMSLE)**. This accounts for both prediction error and logarithmic scaling to handle skewed target variables effectively.
 
 ## How to Run the Project
 
