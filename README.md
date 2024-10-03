@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Repository containing a portfolio of data science projects completed by me for academic, self-learning, and hobby purposes. Presented in the form of Jupyter notebooks and Python scripts.
 
-For a more visually pleasant experience for browsing the portfolio, check out [olivercareyncl.co.uk].
+For a more visually pleasant experience for browsing the portfolio, check out olivercareyncl.co.uk
 
 Note: The data used in the projects (accessed under the data directory) is for demonstration purposes only.
 
@@ -43,4 +43,4 @@ Note: The data used in the projects (accessed under the data directory) is for d
 
 ---
 
-If you liked what you saw or want to discuss my portfolio, feel free to connect with me via email at [olivercareyncl@gmail.com].
+If you liked what you saw or want to discuss my portfolio, feel free to connect with me via email at olivercareyncl@gmail.com.
