@@ -86,7 +86,7 @@ The evaluation metric used in the Kaggle competition is **Root Mean Squared Loga
 
 2. Navigate to the project directory:
    ```bash
-   cd Data-Science-Portfolio/House\ Prices\ -\ Advanced\ Regression\ Analysis
+   cd Data-Science-Portfolio/House Prices - Advanced Regression Analysis
    ```
 
 3. Install the required dependencies:
