@@ -67,4 +67,20 @@ The dataset used in this project is provided by Kaggle and contains information 
 1. Clone this repository:
    ```bash
    git clone https://github.com/olivercareyncl/Data-Science-Portfolio/tree/main/Titanic%20-%20Machine%20Learning%20from%20Disaster
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd titanic-machine-learning
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+## How to Run the Project
 
+Run the Jupyter notebooks in the following order:
+
+1. **`01_Data_Exploration.ipynb`**: Perform exploratory data analysis (EDA) to understand the data and identify patterns.
+2. **`02_Feature_Engineering.ipynb`**: Perform feature engineering, handle missing values, and transform features.
+3. **`03_Model_Building.ipynb`**: Build the machine learning models (Logistic Regression, Random Forest, Gradient Boosting) and evaluate them.
+4. **`04_Predictions_Submission.ipynb`**: Use the best-performing model to generate predictions on the test set.
