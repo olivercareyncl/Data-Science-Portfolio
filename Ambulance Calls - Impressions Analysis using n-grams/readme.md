@@ -25,19 +25,7 @@ To run this app locally, follow these steps:
 install.packages(c("shiny", "shinydashboard", "tidyverse", "tidytext", "DT", "tm"))
 ```
 
-4. **Clone the Repository**: Clone this repository to your local machine using the following command:
-   
-```bash
-git clone https://github.com/olivercareyncl/Data-Science-Portfolio/Ambulance Calls - Impressions Analysis using n-grams/ambulance-call-analysis.git
-```
-
-5. **Run the App**: After installing the dependencies and cloning the repository, open the app directory in RStudio and run the app by executing:
-
-```r
-shiny::runApp()
-```
-
-The app should open in your default web browser.
+4. **Copy MD Script and Run**: Copy the script tagged above as App.r and run in RStudio. The app should open in your default web browser.
 
 ## How to Use the App
 Once the app is running, you can interact with it as follows:
