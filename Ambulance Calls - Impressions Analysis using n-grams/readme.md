@@ -1,10 +1,12 @@
 
 # Ambulance Call Analysis Shiny App
- https://rhl7qs-oliver-carey.shinyapps.io/NEAS_Impressions_App/
+
 ## Description
 The **Ambulance Call Analysis Shiny App** is an interactive application built using R's Shiny framework to analyse ambulance call data. This app utilises natural language processing (NLP) techniques to perform text analysis on the 'Impressions' column, which contains free-text notes taken by first responders at the scene of an emergency. The app allows users to filter the data by various parameters, such as the nature of the call, symptom group, and symptom discriminator, and perform N-gram analysis to extract possible insights from these impression notes. 
 
 The purpose of this app is to provide insights into the ambulance call records by analysing the unstructured text data, helping to identify common patterns, trends, and anomalies in the responses to emergency situations.
+
+You can interact with the live app here: [NEAS Impressions Analysis App](https://rhl7qs-oliver-carey.shinyapps.io/NEAS_Impressions_App/).
 
 ## Technologies Used
 - **Shiny**: R framework for building interactive web applications.
