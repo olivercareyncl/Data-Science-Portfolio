@@ -82,7 +82,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 - Include appropriate comments and documentation for your code.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. 
 
 ---
 
