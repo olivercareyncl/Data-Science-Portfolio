@@ -3,7 +3,7 @@
 ## Description
 The **Titanic Survival Prediction App** is an interactive web application built using **Streamlit**. It allows users to predict whether a passenger survived the Titanic disaster based on input features such as age, sex, passenger class, and family details. The app supports multiple machine learning models (Random Forest, Logistic Regression, SVM, KNN, Decision Tree, Gradient Boosting, AdaBoost, XGBoost, Neural Network, and Naive Bayes) and allows users to tune the hyperparameters for each model to improve prediction accuracy. 
 
-The app also provides visualizations of the model's performance, including accuracy, feature importance, confusion matrix, and ROC curve, offering insights into the prediction results. 
+The app also provides visualisations of the model's performance, including accuracy, feature importance, confusion matrix, and ROC curve, offering insights into the prediction results. 
 
 You can interact with the live app here: [Titanic Survival Prediction App](https://super-duper-engine-w6gg66g4q5wf9rp6-8501.app.github.dev/).
 
